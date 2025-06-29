@@ -130,3 +130,4 @@ C:\Users\matti\OneDrive\Skrivbord\backend uppgift\MyApiProjekt\obj\Debug\net9.0\
 C:\Users\matti\OneDrive\Skrivbord\backend uppgift\MyApiProjekt\obj\Debug\net9.0\MyApiProjekt.pdb
 C:\Users\matti\OneDrive\Skrivbord\backend uppgift\MyApiProjekt\obj\Debug\net9.0\MyApiProjekt.genruntimeconfig.cache
 C:\Users\matti\OneDrive\Skrivbord\backend uppgift\MyApiProjekt\obj\Debug\net9.0\ref\MyApiProjekt.dll
+C:\Users\matti\OneDrive\Skrivbord\backend uppgift\MyApiProjekt\obj\Debug\net9.0\MyApiProjekt.sourcelink.json
